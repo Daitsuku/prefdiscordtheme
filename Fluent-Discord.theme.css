@@ -26,8 +26,8 @@
   --fluent-accent-lightness: 42%;
   --fluent-text-on-accent-color: 0, 0, 0;
   --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/895495947688239125/1110272099098046576/00025-777014953_waifu2x_noise0_scale4x.png);
-  --fluent-acrylic-background-blur: 35px;
-  --fluent-acrylic-background-dimness: 75%;
+  --fluent-acrylic-background-blur: 20px;
+  --fluent-acrylic-background-dimness: 45%;
   --fluent-acrylic-background-saturate: 140%;
   --fluent-guilds-icon-size: 24px;
 }
